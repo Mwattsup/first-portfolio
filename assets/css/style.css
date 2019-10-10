@@ -1,0 +1,37 @@
+html {
+    background-image: url(../images/qbkls.png);
+    height: 100%;
+}
+
+h1, main {
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+* {
+    box-sizing: border-box;
+}
+
+h1, h2 {
+   font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777777;
+}
+
+h2 {
+    color: #4aaaa5;
+}
+
+h1 {
+    color: #ffffff;
+    background-color: #4aaaa5;
+
+}
+
+a {
+    color: inherit;
+    text-decoration: inherit;
+  }
